@@ -6,6 +6,8 @@ com tensão de alimentação entre 4 e 20VDC e corrente de operação inferior a
 Figura 49, exibe-se o sensor LM35 DZ e identifica-se os pinos de alimentação (Vcc), saída 
 analógica e terra (GND)
 
+Tinkercard : https://www.tinkercad.com/things/iLWh57jf4ZW-sensor-de-temperatura/editel?sharecode=YU2r7kYh5upygKfHwe5vRYHM4yE9f1TW1O6a98FzOAA
+
 <img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/projetotemp.jpeg" width="700px" height="450px"/>
 
 <img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/1.png" width="350px" height="400px" /><img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/2.png" width="350px" height="400px" />
@@ -13,5 +15,3 @@ analógica e terra (GND)
 <img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/3.png" width="350px" height="400px" /><img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/4.png" width="350px" height="400px" />
 
 <img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/5.png" width="350px" height="400px" />
-
-https://user-images.githubusercontent.com/80048512/135180708-02c9cc50-3ce1-486c-b737-17596af61648.mp4
