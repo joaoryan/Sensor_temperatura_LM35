@@ -6,7 +6,7 @@ com tensão de alimentação entre 4 e 20VDC e corrente de operação inferior a
 Figura 49, exibe-se o sensor LM35 DZ e identifica-se os pinos de alimentação (Vcc), saída 
 analógica e terra (GND)
 
-<img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/projetotemp.png" width="350px" height="400px"/>
+<img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/projetotemp.jpeg" width="700px" height="450px"/>
 
 <img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/1.png" width="350px" height="400px" /><img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/2.png" width="350px" height="400px" />
 
