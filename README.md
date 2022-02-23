@@ -14,4 +14,3 @@ Tinkercard : https://www.tinkercad.com/things/iLWh57jf4ZW-sensor-de-temperatura/
 
 <img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/3.png" width="350px" height="400px" /><img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/4.png" width="350px" height="400px" />
 
-<img src="https://github.com/joaoryan/Sensor_temperatura_LM35/blob/main/img/5.png" width="350px" height="400px" />
